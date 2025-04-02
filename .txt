@@ -1,0 +1,35 @@
+[33mcommit 6638a66b31c07e13bcf5aa8d3f030bc50eec89e4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Liza <mouse911@yandex.ru>
+Date:   Wed Apr 2 19:09:06 2025 +0300
+
+    добавлена строчка 5
+
+[33mcommit c8a78e2304c1d51d3760f2ced1e18d1ad1925cda[m
+Author: Liza <mouse911@yandex.ru>
+Date:   Wed Apr 2 18:25:35 2025 +0300
+
+    Добавили строчку
+
+[33mcommit c88cf693bccb3d97d397e34bedc0ddfb3cab4e5b[m
+Author: Liza <mouse911@yandex.ru>
+Date:   Wed Apr 2 18:13:39 2025 +0300
+
+    Добавили строчку
+
+[33mcommit 305a84b0f2117366858827f6b9995cf7acf583d0[m
+Author: Liza <mouse911@yandex.ru>
+Date:   Mon Mar 31 21:30:01 2025 +0300
+
+    Добавили еще строчку
+
+[33mcommit 01fe3202d142e5e7bd11c774ca62e8fc1af3384e[m
+Author: Liza <mouse911@yandex.ru>
+Date:   Mon Mar 31 21:13:00 2025 +0300
+
+    Добавили строчку
+
+[33mcommit 19e3454dcfee36aa959314b6101ef174fb1c52c3[m
+Author: Liza <mouse911@yandex.ru>
+Date:   Mon Mar 31 21:05:56 2025 +0300
+
+    Создали папку и добавили пусой файл
